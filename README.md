@@ -27,5 +27,5 @@
 ---
 
 ## 🌐 **Onde me encontrar**:
-- [!🔗 [LinkedIn badge](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/daniel-silva-tigre-6951302aa)](https://www.linkedin.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-tigre-6951302aa)
 - [![GitHub Badge](https://img.shields.io/badge/-Meu_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Daniel)
