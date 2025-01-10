@@ -3,6 +3,12 @@
 🎓 **Desenvolvedor Python** | 💾 Apaixonado por Banco de Dados (SQL Server)  
 🎯 Focado em aprender, criar e resolver problemas com tecnologia.  
 
+
+## 🌐 **Onde me encontrar**:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-tigre-6951302aa)
+- [![GitHub Badge](https://img.shields.io/badge/-Meu_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Daniel)
+
+
 ---
 
 ## 🛠 **Tecnologias que uso**:
