@@ -7,6 +7,7 @@
 ## 🌐 **Onde me encontrar**:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-tigre-6951302aa)
 - [![GitHub Badge](https://img.shields.io/badge/-Meu_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danielstit)
+- [![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/5599991116452)
 
 
 ---
