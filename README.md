@@ -27,7 +27,7 @@
 ---
 
 ## 📊 **Minhas Estatísticas**:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Daniel&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Danielstit&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielstit&layout=compact&theme=tokyonight)
 
